@@ -9,7 +9,7 @@ I've been working in software development since 2017, my experience is primarily
 #### Languages and Tools:
 
 ![C#](https://img.shields.io/badge/c%23-C%23-blue)&nbsp;
-![ASP.NET](https://img.shields.io/badge/ASP.NET-ASP.NET%20Core-lightblue)&nbsp;
+![ASP.NET](https://img.shields.io/badge/ASP.NET-ASP.NET%20Core-purple)&nbsp;
 <br/>
 ![JavaScript](https://img.shields.io/badge/JS-JavaScript-yellow?logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/N-NodeJS-darkgreen?logo=node.js)&nbsp;
