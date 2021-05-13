@@ -1,7 +1,7 @@
 ### Hey, I'm Jess 👋
 
 #### A London based Software Engineer working on Event Driven systems at Just Eat Takeaway
-Passionate about C#, ASP.NET Core, AWS and Serverless technologies ☁️ 
+Passionate about C#, ASP.NET Core and Serverless technologies ☁️ 
 
 #### Languages and Tools:
 
