@@ -27,3 +27,4 @@ I've been working in software development since 2016, my experience is primarily
 ![GitHub](https://img.shields.io/badge/GH-GitHub-grey?logo=github&logoColor=white)&nbsp;
 
 <br/>[![Linkedin Badge](https://img.shields.io/badge/-/in/jessicabarclay-ebedf0?style=flat-square&logo=linkedin&logoColor=white&labelColor=blue&link=https://www.linkedin.com/in/jessica-barclay-bab35b10b)](https://www.linkedin.com/in/jessica-barclay-bab35b10b)
+
