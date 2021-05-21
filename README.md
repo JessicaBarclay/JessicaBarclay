@@ -22,9 +22,13 @@ I've been working in software development since 2016, my experience is primarily
 ![AWS SNS](https://img.shields.io/badge/aws-SNS-lightpink)&nbsp;
 ![AWS SQS](https://img.shields.io/badge/aws-SQS-yellow)&nbsp;
 ![Redis](https://img.shields.io/badge/Elasticache-Redis-red?logo=redis)&nbsp;
-<br/>
-![Git](https://img.shields.io/badge/git-Git-grey?logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/GH-GitHub-grey?logo=github&logoColor=white)&nbsp;
 
-<br/>[![Linkedin Badge](https://img.shields.io/badge/-/in/jessicabarclay-ebedf0?style=flat-square&logo=linkedin&logoColor=white&labelColor=blue&link=https://www.linkedin.com/in/jessica-barclay-bab35b10b)](https://www.linkedin.com/in/jessica-barclay-bab35b10b)
+<br/>
+
+[![Linkedin Badge](https://img.shields.io/badge/-/in/jessicabarclay-ebedf0?style=flat-square&logo=linkedin&logoColor=white&labelColor=blue&link=https://www.linkedin.com/in/jessica-barclay-bab35b10b)](https://www.linkedin.com/in/jessica-barclay-bab35b10b)
+
+<br/>
+
+![Stats](https://github-readme-stats.vercel.app/api?username=jessicabarclay&show_icons=true&theme=dracula)
+
 
