@@ -30,6 +30,5 @@ I've been working in software development since 2016, my experience is primarily
 <br/>
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=jessicabarclay&show_icons=true&theme=dracula)
-
-Contribution stats added using [anuraghazra/GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) - ⚡ Dynamically generated stats for your github READMEs.
+⚡ [Dynamically generated stats](https://github.com/anuraghazra/github-readme-stats) for your github READMEs.
 
