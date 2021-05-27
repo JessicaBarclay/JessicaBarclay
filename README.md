@@ -5,7 +5,6 @@ My name is Jess and I'm a Software Engineer, currently working at Just Eat Takea
 <br/>
 I've been working in software development since 2016, my experience is primarily with C# and ASP.NET Core as well as JavaScript and Node.js. I'm particularly passionate about ASP.NET Core and Serverless technologies ☁️ ⚡
 
-
 #### Languages and Tools:
 
 ![C#](https://img.shields.io/badge/c%23-C%23-blue)&nbsp;
@@ -23,12 +22,12 @@ I've been working in software development since 2016, my experience is primarily
 ![AWS SQS](https://img.shields.io/badge/aws-SQS-yellow)&nbsp;
 ![Redis](https://img.shields.io/badge/Elasticache-Redis-red?logo=redis)&nbsp;
 
-<br/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-/in/jessicabarclay-ebedf0?style=flat-square&logo=linkedin&logoColor=white&labelColor=blue&link=https://www.linkedin.com/in/jessica-barclay-bab35b10b)](https://www.linkedin.com/in/jessica-barclay-bab35b10b)
 
-<br/>
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=jessicabarclay&show_icons=true&theme=dracula)
+
+
 ⚡ [Dynamically generated stats](https://github.com/anuraghazra/github-readme-stats) for your github READMEs.
 
