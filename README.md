@@ -24,10 +24,3 @@ I've been working in software development since 2016, my experience is primarily
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-/in/jessicabarclay-ebedf0?style=flat-square&logo=linkedin&logoColor=white&labelColor=blue&link=https://www.linkedin.com/in/jessica-barclay-bab35b10b)](https://www.linkedin.com/in/jessica-barclay-bab35b10b)
-
-
-![Stats](https://github-readme-stats.vercel.app/api?username=jessicabarclay&show_icons=true&theme=dracula)
-
-
-⚡ [Dynamically generated stats](https://github.com/anuraghazra/github-readme-stats) for your github READMEs.
-
